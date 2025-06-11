@@ -1,5 +1,5 @@
 # tardis
-``pgsql
+```pgsql
 Tardis/
 ├── manifest.json
 ├── functions/
